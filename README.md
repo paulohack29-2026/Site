@@ -34,3 +34,4 @@ O site foi criado com as seguintes premissas:
 ├── README.md         # Documentação do projeto
 └── _imagens/
     └── QRCODE.png    # QR Code para contato por email
+    ├── paulo.jpg     # Imagem Paulo Hack
