@@ -365,7 +365,7 @@ nav .nav-cta:hover {
     color: var(--slate-900);
     display: flex;
     gap: 12px;
-    left: -42px;
+    left: 50px;
     min-width: 215px;
     padding: 15px 18px;
     position: absolute;
